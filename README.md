@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Build and Barter a Minecraft Server
+- 👯 I’m looking to collaborate on web development and java development
+- 💬 Ask me about my experiance in HTML, Js, Python, Java, PHP, and C+!
+- 📫 How to reach me: You can contact me via my scocial medias or my website!
 <!--
 **CreeperSloth/CreeperSloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
